@@ -1,0 +1,3 @@
+[submodule "onelogin-python-aws-assume-role"]
+	path = onelogin-python-aws-assume-role
+	url = https://github.com/onelogin/onelogin-python-aws-assume-role.git
